@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  border-radius: 12px;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.myaccount {
+  color: rgb(170, 167, 167);
+}
+
+button {
+  color: rgb(71, 177, 243);
+  background-color: transparent;
+  border-color: transparent;
+}
